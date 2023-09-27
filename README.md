@@ -125,4 +125,4 @@
 * Purchase package (diy traffic)
 
 
-## [Price/Telegraph Contacts](https://v2raysocks.doxtex.com/price)
+## [价格/电报联系方式](https://v2raysocks.doxtex.com/price)
