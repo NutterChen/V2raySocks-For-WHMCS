@@ -124,5 +124,4 @@ Windows Client
 
 Purchase package (diy traffic)
 
-## Preview
-[Price/Telegraph Contacts](https://v2raysocks.doxtex.com/price)
+## [Price/Telegraph Contacts](https://v2raysocks.doxtex.com/price)
