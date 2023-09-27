@@ -101,17 +101,25 @@
 
 ## DEMO
 ![User Center](https://1424971220-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MJHIJV9Hefx67YQct_g%2Fuploads%2FGHuWUod4ju8mBkzu07f3%2F1.png?alt=media&token=7c9a1b35-c02c-48aa-bc72-49c5ddc6e552)
+
 User Center
+
 ![Reset UUID](https://1424971220-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MJHIJV9Hefx67YQct_g%2Fuploads%2FTTgxMTUm4tTTPHakqEvX%2F2.png?alt=media&token=eba6dee6-f814-489c-b85a-5e2418f7028b)
 
 Reset UUID
+
 ![Subscription support](https://1424971220-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MJHIJV9Hefx67YQct_g%2F-MKYskHhISDT-pWtAZAN%2F-MKYtKG7A5qJNtv7odIz%2Fsubscription.png?alt=media&token=12970d5b-6f6e-4202-8df7-025f77a03e53)
 
 Subscription support
 
 ![Node details](https://1424971220-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MJHIJV9Hefx67YQct_g%2F-MKYskHhISDT-pWtAZAN%2F-MKYtmoJqHN0C_Z6_Xyl%2FNode%20details.png?alt=media&token=a953ddae-b09b-445d-b071-0c39cd8f0a8f)
+
 Node details
+
 ![Windows Client](https://1424971220-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MJHIJV9Hefx67YQct_g%2F-MKyLdF8Vo0hf-OutNuF%2F-MKyLhnmFmrqDCvSq4ZU%2F%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202020-10-31%20105631.png?alt=media&token=23feb0d1-dbe2-433f-a68e-08a9a47979f2)
+
 Windows Client
+
 ![Purchase package (diy traffic)](https://1424971220-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MJHIJV9Hefx67YQct_g%2F-MJJSHBFhavazuv8RrAz%2F-MJJTczHqq3tLvtNotub%2F189.png?alt=media&token=4ccc17e9-fd28-463f-9f36-aba46eeb9993)
+
 Purchase package (diy traffic)
